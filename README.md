@@ -5,7 +5,6 @@
 ## Table of Contents:
   - [Description](#description)
   - [Deployment](#deployment)
-  - [Screenshot](#screenshot)
   - [Installation](#installation)
   - [License](#license)
   - [Built With](#built-with)
@@ -17,9 +16,6 @@ This is app is used to perform CRUD requests that would simulate being on a soci
 
 ## Deployment
 You can view a live deployment of the app at this link: https://drive.google.com/file/d/1fJ0NkdD5CWeKVm3eY5V0-928lZ4-RAYa/view
-
-## Screenshot
-![Screenshot]()
 
 ## Installation
 An IDE(ex. VS Code) and Node.js
